@@ -5,10 +5,10 @@
 
 | Labs   |
 | :----: |
-|[Lab01](Labs/Lab01/README.md)|
-|[Lab02](Labs/Lab02/README.md)|
-|[Lab03](Labs/Lab03/README.md)|
-|[Lab04](Labs/Lab04/README.md)|
-|[Lab05](Labs/Lab05/README.md)|
-|[Lab06](Labs/Lab06/README.md)|
-|[Lab07](Labs/Lab07/README.md)|
+|[Lab01](Labs/Lab01)|
+|[Lab02](Labs/Lab02)|
+|[Lab03](Labs/Lab03)|
+|[Lab04](Labs/Lab04)|
+|[Lab05](Labs/Lab05)|
+|[Lab06](Labs/Lab06)|
+|[Lab07](Labs/Lab07)|
