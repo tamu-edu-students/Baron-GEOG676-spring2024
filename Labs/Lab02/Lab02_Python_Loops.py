@@ -33,12 +33,14 @@ for i in part3:
 
 print('The results for Part 3 are', result3)
 
+
+
 #Bonus
 ##Part 1 using While Loop
-part4 = [1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096]
-result4 = 1
+##part4 = [1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096]
+##result4 = 1
 
-i = 0
-while i < len(part4):
-    result4 = result4 * part4[i]
-    i = i + 1
+##i = 0
+##while i < len(part4):
+    ##result4 = result4 * part4[i]
+    ##i = i + 1
