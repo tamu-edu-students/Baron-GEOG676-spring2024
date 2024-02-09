@@ -1,8 +1,7 @@
 # Baron-GEOG676-spring2024
-## GIS Programming
 ## Andrew Baron
-### Lab Links
-GEOG 676 - GIS Prog
+## GIS Programming
+##GEOG 676 - GIS Prog
 
 | Labs   |
 | :----: |
